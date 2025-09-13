@@ -1,7 +1,7 @@
 {
     "name": "Pomodoro",
     "alias": "pomodoro",
-    "description": "",
+    "description": "Test module ",
     "keywords": ["pomodoro"],
     "priority": 0,
     "providers": [
