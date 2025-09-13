@@ -1,0 +1,28 @@
+{
+    "name": "saucebase/pomodoro",
+    "description": "",
+    "authors": [
+        {
+            "name": "Sauce Base",
+            "email": "contact@saucebase.dev"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {}
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Pomodoro\\": "app/",
+            "Modules\\Pomodoro\\Database\\Factories\\": "database/factories/",
+            "Modules\\Pomodoro\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Modules\\Pomodoro\\Tests\\": "tests/"
+        }
+    }
+}
