@@ -1,6 +1,7 @@
 {
-    "name": "saucebase/pomodoro",
+    "name": "saucebase/pomodoro-module",
     "description": "",
+    "type": "laravel-module",
     "authors": [
         {
             "name": "Sauce Base",
