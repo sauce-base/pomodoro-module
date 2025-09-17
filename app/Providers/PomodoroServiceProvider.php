@@ -27,7 +27,7 @@ class PomodoroServiceProvider extends ServiceProvider
     public function register(): void
     {
         $this->app->register(RouteServiceProvider::class);
-        // Comment on v.0.0.3 for conflict
+        // Comment on v.0.0.4 for conflict
     }
 
     /**
